@@ -1,11 +1,14 @@
-# Hello, I'm Viacheslav 👋
-💻 **Web Developer**
+# Hi! I'm Viacheslav 👋
+### 🧑‍💻 Frontend Developer
+---
+### 💻 About me:
 
-🍀 **Current focus:** JavaScript (ES6+, DOM)
+* 🍀 **Current focus:** JavaScript (ES6, DOM)
+* 🐧 **OS:** Fedora 43 | KDE Plasma
 
 ---
 ### 🛠️ Stack & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github,figma)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma)](#)
 
 ---
 ### 📊 GitHub Stats:
