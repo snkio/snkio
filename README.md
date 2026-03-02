@@ -1,5 +1,9 @@
 # Hi! I'm Viacheslav 👋
 ### 🧑‍💻 Frontend Developer
+[![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snkio.dev@gmail.com)
+
+
+
 ---
 ### 💻 About me:
 
@@ -18,7 +22,6 @@
 
 ---
 
-### 📫 Connect with Me
-<a href="https://t.me/snkioprod" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-My%20IT%20Journey-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TG" />
-  </a>
+
+
+
