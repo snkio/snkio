@@ -12,7 +12,7 @@
 
 ---
 ### 🛠️ Stack & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,git,github,vscode,vite,figma)](#)
 
 ---
 ### 📊 GitHub Stats:
