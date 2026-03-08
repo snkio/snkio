@@ -13,7 +13,7 @@ I'm **Viacheslav**, a Frontend Developer. I like building clean, responsive and 
 - **Tools:** Git, Vite, Linux, Figma
 
 ### 🚀 Some stuff I built:
-- [Portfolio](link) — Personal portfolio with **dark mode and smooth CSS transitions**
+- [Portfolio](https://github.com/snkio/portfolio) — Personal portfolio
 
 
 ### ⚡ Fun Facts:
